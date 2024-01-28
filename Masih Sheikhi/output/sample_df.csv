@@ -1,0 +1,11 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+63,1,True,True,True,Ray,1134000000.0,37800.0
+85,2,True,True,True,Ekhtiarieh,5000000000.0,166666.67
+200,3,True,True,True,Araj,13700000000.0,456666.67
+85,2,True,True,True,Parand,520000000.0,17333.33
+78,2,True,False,True,Jeyhoon,2250000000.0,75000.0
+500,4,True,True,False,Damavand,20000000000.0,666666.67
+40,2,False,False,False,Salsabil,830000000.0,27666.67
+93,2,True,True,True,Southern Janatabad,4600000000.0,153333.33
+90,2,True,True,True,Marzdaran,6230000000.0,207666.67
+71,1,True,True,True,West Ferdows Boulevard,2370000000.0,79000.0
